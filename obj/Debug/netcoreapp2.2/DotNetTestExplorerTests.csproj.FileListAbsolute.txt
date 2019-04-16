@@ -1,0 +1,14 @@
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\DotNetTestExplorerTests.deps.json
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\DotNetTestExplorerTests.runtimeconfig.json
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\DotNetTestExplorerTests.runtimeconfig.dev.json
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\DotNetTestExplorerTests.dll
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\bin\Debug\netcoreapp2.2\DotNetTestExplorerTests.pdb
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.csprojAssemblyReference.cache
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.csproj.CoreCompileInputs.cache
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.AssemblyInfoInputs.cache
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.AssemblyInfo.cs
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.dll
+C:\Users\mhenry\Desktop\VisualStudioCode\DotNetTestExplorerTests\obj\Debug\netcoreapp2.2\DotNetTestExplorerTests.pdb
